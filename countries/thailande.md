@@ -15,3 +15,5 @@
 3. Ajouter les nouilles, la sauce tamarin et le sucre.
 4. Garnir de cacahuètes, germes de soja et coriandre.
 5. Servir avec un quartier de citron vert.
+
+[⬅️ Retour à l'accueil](../index.md)

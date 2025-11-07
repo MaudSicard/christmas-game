@@ -18,3 +18,5 @@
 4. Ajouter le poulet mariné, cuire 20 min.
 5. Incorporer la crème, rectifier l’assaisonnement.
 6. Servir avec du riz basmati ou des naans.
+
+[⬅️ Retour à l'accueil](../index.md)

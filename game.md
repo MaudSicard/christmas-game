@@ -4,12 +4,11 @@ Clique sur le bouton ci-dessous pour tirer au sort un pays :
 
 <div style="margin-top:20px;">
   <button class="styled-button" onclick="afficherPays()">🎲 Afficher un pays</button>
-  <button class="styled-button" onclick="afficherPays()">🔁 Rejouer</button>
 </div>
 
 <div id="resultat" class="fade-in" style="margin-top:20px; font-size:20px; font-weight:bold;"></div>
 
-[⬅️ Retour à l'accueil](../index.md)
+[⬅️ Retour à l'accueil](index.md)
 
 <style>
 .styled-button {

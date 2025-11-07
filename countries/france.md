@@ -18,3 +18,5 @@
 4. Cuire à feu doux pendant 2 h.
 5. Ajouter les champignons 30 min avant la fin.
 6. Servir chaud avec des pommes de terre vapeur ou des pâtes fraîches.
+
+[⬅️ Retour à l'accueil](../index.md)

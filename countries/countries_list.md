@@ -1,13 +1,13 @@
 # 🌍 Les pays à l'honneur aujourd'hui
 
 
-- [France](countries/france.md)
-- [Italie](countries/italie.md)
-- [Japon](countries/japon.md)
-- [Mexique](countries/mexique.md)
-- [Inde](countries/inde.md)
-- [Maroc](countries/maroc.md)
-- [Thailande](countries/thailande.md)
-- [Brésil](countries/bresil.md)
-- [Grèce](countries/grece.md)
-- [Vietnam](countries/vietnam.md)
+- [France](france.md)
+- [Italie](italie.md)
+- [Japon](japon.md)
+- [Mexique](mexique.md)
+- [Inde](inde.md)
+- [Maroc](maroc.md)
+- [Thailande](thailande.md)
+- [Brésil](bresil.md)
+- [Grèce](grece.md)
+- [Vietnam](vietnam.md)

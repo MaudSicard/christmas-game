@@ -14,3 +14,5 @@
 3. Cuire les nouilles à part.
 4. Dresser les nouilles dans un bol, verser le bouillon chaud.
 5. Garnir avec les herbes, le citron et la sauce.
+
+[⬅️ Retour à l'accueil](../index.md)

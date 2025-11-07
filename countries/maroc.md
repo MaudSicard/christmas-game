@@ -13,3 +13,5 @@
 2. Préparer la semoule à la vapeur en trois étapes.
 3. Ajouter les pois chiches et les raisins en fin de cuisson.
 4. Dresser la semoule en dôme, disposer la viande et les légumes autour.
+
+[⬅️ Retour à l'accueil](../index.md)

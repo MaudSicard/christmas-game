@@ -9,6 +9,8 @@ Clique sur le bouton ci-dessous pour tirer au sort un pays :
 
 <div id="resultat" class="fade-in" style="margin-top:20px; font-size:20px; font-weight:bold;"></div>
 
+[⬅️ Retour à l'accueil](../index.md)
+
 <style>
 .styled-button {
   background-color: #0077cc;
@@ -32,6 +34,16 @@ Clique sur le bouton ci-dessous pour tirer au sort un pays :
 .fade-in.visible {
   opacity: 1;
 }
+
+.home-link {
+  font-size: 18px;
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: bold;
+}
+.home-link:hover {
+  text-decoration: underline;
+}
 </style>
 
 <script>
@@ -49,7 +61,8 @@ function afficherPays() {
     { nom: "Vietnam", lien: "countries/vietnam.md" }
   ];
   const choix = pays[Math.floor(Math.random() * pays.length)];
-  const message = `🌍 <a href="${choix.lien}" style="color:#0077cc; text-decoration:none;">${choix.nom}</a>`;
+  const message = `🌍 <a href="${choix.lien.replace('.md', '.html')}" style="color:#0077cc; text-decoration:none;">${choix.nom}</a>`;
+
   const resultat = document.getElementById("resultat");
   resultat.innerHTML = message;
   resultat.classList.remove("visible");
